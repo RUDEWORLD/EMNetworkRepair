@@ -2,9 +2,9 @@
 //  UpdateChecker.swift
 //  EM Network Repair
 //
-//  GitHub-hosted automatic updater — the same pattern as AlphaCaps /
-//  OmniGrids: check on launch → download the release zip → verify its
-//  code signature → swap the app bundle in place → relaunch. No browser,
+//  GitHub-hosted automatic updater — the same pattern as AlphaCaps:
+//  check on launch → download the release zip → verify its code
+//  signature → swap the app bundle in place → relaunch. No browser,
 //  no manual drag-install.
 //
 //  Repo expectations:
