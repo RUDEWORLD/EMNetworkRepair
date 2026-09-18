@@ -1,0 +1,34 @@
+# Xcode user-specific
+**/xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+# Build products
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+*.app
+
+# Per-release zipped builds (uploaded to GitHub Releases, not source)
+RELEASES/
+Releases/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Finder / system
+.DS_Store
+
+# Backups
+*.bak
+
+# CocoaPods (unused but standard)
+Pods/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output
